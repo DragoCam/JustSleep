@@ -1,1 +1,1 @@
-# JustSleep
+# JustSleep - Discord slowmode bot
